@@ -89,6 +89,6 @@ public class HashTutorial {
 
     //Finally, the main method, obviously...
     public static void main(String[] args){
-        new Tutorial();
+        new HashTutorial();
     }
 }
