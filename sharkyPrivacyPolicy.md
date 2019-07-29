@@ -11,7 +11,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 <h1> Information Collection and Use </h1>
 
-<p>This app itself does not collect any data about the user.
+<p>This app by itself does not collect ANY data about the user.
   
   However the app does use third party services that may collect information used to identify you.
 
