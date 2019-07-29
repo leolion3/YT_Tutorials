@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <h1> Privacy Policy </h1>
 
-<p>Leonard Haddad built the Sharky the hungry Sharkfish app as a Free app. This SERVICE is provided by Leonard Haddad at no cost and is intended for use as is.
+<p>Sharky the hungry Sharkfish is provided as a Free app. This SERVICE is provided by Leonard Haddad at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -11,9 +11,9 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 <h1> Information Collection and Use </h1>
 
-<p>For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. Currently this app does not collect any data from the user.
-
-The app does use third party services that may collect information used to identify you.
+<p>This app itself does not collect any data about the user.
+  
+  However the app does use third party services that may collect information used to identify you.
 
 Link to privacy policy of third party service providers used by the app
 
